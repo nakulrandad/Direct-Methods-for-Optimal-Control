@@ -1,4 +1,5 @@
 # Direct Methods for Optimal Control
+[![DOI](https://zenodo.org/badge/366012598.svg)](https://zenodo.org/badge/latestdoi/366012598)
 
 ## Overview
 
