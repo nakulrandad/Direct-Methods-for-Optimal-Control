@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository includes [codes](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/tree/main/Optimal-Control-Problems) and [documentations](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/tree/main/Documentation) created as a part of my *Supervised Learning Project* (SLP).
+This repository includes [codes](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/tree/main/Optimal-Control-Problems) and [documentation](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/tree/main/Documentation) created as a part of my *Supervised Learning Project* (SLP).
 The project was guided by [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) from Systems and Control Engineering, Indian Institute of Technology Bombay.
 
 ## Abstract
