@@ -3,7 +3,7 @@
 ## Overview
 
 This repository includes codes and documentations created as a part of my *Supervised Learning Project* (SLP).
-The project is being guided by [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) from Systems and Control Engineering, Indian Institute of Technology Bombay.
+The project was guided by [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) from Systems and Control Engineering, Indian Institute of Technology Bombay.
 
 ## Abstract
 
