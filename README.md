@@ -1,4 +1,4 @@
-# Direct-Methods-for-Optimal-Control
+# Direct Methods for Optimal Control
 
 ## Overview
 
@@ -21,7 +21,8 @@ methods by working through example problems.
 ## Project Tree
 ```
 .
-└───OptimalControl
+├───Documentations
+└───Optimal-Control-Problems
     ├───Bryson_Denham
     │   └───results
     └───Double_Integrator
