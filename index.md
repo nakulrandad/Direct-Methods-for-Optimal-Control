@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Direct Methods for Optimal Control
+[![DOI](https://zenodo.org/badge/366012598.svg)](https://zenodo.org/badge/latestdoi/366012598)
 
-You can use the [editor on GitHub](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository includes [codes](Optimal-Control-Problems) and [documentation](Documentation) created as a part of my *Supervised Learning Project* (SLP).
+The project was guided by [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) from Systems and Control Engineering, Indian Institute of Technology Bombay.
 
-### Markdown
+## Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here, we study the numerical methods for optimal control. In particular,
+the direct methods are discussed with an objective to showcase an approach for
+general optimal control problems. These methods, which include single shooting,
+multiple shooting and collocation methods, are relatively simple to follow and effectively
+solve a wide variety of optimization problems. We illustrate each of the
+methods by working through example problems.
 
-```markdown
-Syntax highlighted code block
+## Contributors
 
-# Header 1
-## Header 2
-### Header 3
+* [Nakul Randad](https://nakulrandad.github.io)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Project Tree
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nakulrandad/Direct-Methods-for-Optimal-Control/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+.
+├───Documentations
+└───Optimal-Control-Problems
+    ├───Bryson_Denham
+    │   └───results
+    └───Double_Integrator
+        └───results
+```
