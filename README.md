@@ -17,7 +17,7 @@ methods by working through example problems.
 
 ## Contributors
 
-* Nakul Randad - (180010047)
+* [Nakul Randad](https://nakulrandad.github.io)
 
 ## Project Tree
 ```
