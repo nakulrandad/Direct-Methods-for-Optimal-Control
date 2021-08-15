@@ -1,5 +1,5 @@
 # [Direct Methods for Optimal Control](https://nakulrandad.github.io/Direct-Methods-for-Optimal-Control/)
-[![DOI](https://zenodo.org/badge/366012598.svg)](https://zenodo.org/badge/latestdoi/366012598)
+[![DOI](https://zenodo.org/badge/366012598.svg)](https://doi.org/10.5281/zenodo.4746128)
 
 ## Overview
 
